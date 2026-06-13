@@ -1,0 +1,48 @@
+{
+  "finance": {
+    "compact_context": "[美联储在] 美联储 |  | 疫情期间'大放水'→美国私人部门持续加杠杆,通胀预期逐步升温→2024年12月份的降息中转向'鹰派',开启降息周期\n[美联储] 加息周期,紧缩货币政策,降息周期 |  | 美联储开启加息周期→应对疫情后持续高企的通胀压力\n美联储开启降息周期→应对就业数据的趋势性转弱",
+    "compact_len": 149,
+    "original_len": 3201,
+    "compact_ratio": 21.5,
+    "elapsed": 324.6,
+    "entity_count": 2,
+    "ents_with_attrs": 2,
+    "ents_with_rels": 0,
+    "ents_with_concept": 2,
+    "empty_attrs": 0,
+    "vram_peak_mb": 7641,
+    "vram_avg_mb": 7520,
+    "phase_times": {
+      "schema": 15.54,
+      "skeleton": 271.06,
+      "fuse": 19.11,
+      "detail": 18.9,
+      "serialize": 0.0
+    },
+    "extractor_model": "qwen3.5:4b",
+    "schema_model": "qwen3.5:4b"
+  },
+  "science": {
+    "compact_context": "[质量间隙] 质量间隔 |  | 恒星坍缩形成黑洞时，存在不稳定性超新星和脉动式不稳定性超新星，→无法直接坍缩为质量在60-130太阳质量之间的黑洞",
+    "compact_len": 74,
+    "original_len": 2967,
+    "compact_ratio": 40.1,
+    "elapsed": 306.2,
+    "entity_count": 1,
+    "ents_with_attrs": 1,
+    "ents_with_rels": 0,
+    "ents_with_concept": 1,
+    "empty_attrs": 0,
+    "vram_peak_mb": 7629,
+    "vram_avg_mb": 7504,
+    "phase_times": {
+      "schema": 17.39,
+      "skeleton": 261.11,
+      "fuse": 16.51,
+      "detail": 11.16,
+      "serialize": 0.0
+    },
+    "extractor_model": "qwen3.5:4b",
+    "schema_model": "qwen3.5:4b"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "finance": {
+    "compact_context": "[Bowman] Bowman,委员,投票支持 | 传授/劳动力市场状况,投票支持 | \n[美联储] 鹰派,4.25%-4.5% | 叛徒弟子/加息,关系/降息 | \n[美企]  | 偷袭/借款利息支出,偷袭/偿还债务 | \n[政策利率] 政策利率,上修,预测 | 上修 | \n[PCE] CPI,PCE | 上修 | \n[美国企业]  | 传授/扩大再生产 | \n[美国经济]  | 偷袭/债务 | \n[2024财年]  |  | \n[特朗普加征关税的影响下]  | 升温 | \n[非金融企业]  | 传授/借贷 | \n[1.8万亿美元]  |  | \n[房价相对于租金]  | 仍然较高 | \n[美国联邦债务利息]  | 超过 | \n[美国金融周期]  |  | \n[中长期国债平均利率水平]  |  | \n[高利率环境] 高利率 |  | \n[2024年11月失业率]  |  | \n[2023年同期失业率]  |  | \n[实际GDP增长]  |  | \n[住房活动]  | 关系/抵押贷款利率 | \n[鲍威尔] 鲍威尔,主席,强调,信心,通胀回落,降温趋势,经济下行风险,避免衰退,短期中性利率 |  | \n[联邦基金]  |  | \n[沃尔克]  |  | \n[美元指数]  |  | \n[黄金]  |  | \n[摩根士丹利]  |  | \n[住宅投资]  |  | \n[抵押贷款]  |  | \n[生产率]  |  | \n[劳动力市场]  |  | \n[美元指数]  |  | \n[黄金]  |  | \n[市场]  |  | \n[特朗普交易]  |  | \n[降息] 降息,依据,转变,铺垫,暂停 |  | \n[紧缩]  |  | \n[美联储在]  |  | ",
+    "compact_len": 737,
+    "original_len": 3201,
+    "compact_ratio": 4.3,
+    "elapsed": 67.9,
+    "entity_count": 37,
+    "ents_with_attrs": 7,
+    "ents_with_rels": 12,
+    "ents_with_concept": 0,
+    "empty_attrs": 30,
+    "vram_peak_mb": 4105,
+    "vram_avg_mb": 4105,
+    "phase_times": {
+      "schema": 2.89,
+      "skeleton": 32.4,
+      "fuse": 3.18,
+      "detail": 29.45,
+      "serialize": 0.0
+    },
+    "extractor_model": "qwen2.5:3b",
+    "schema_model": "qwen2.5:3b"
+  },
+  "science": {
+    "compact_context": "[黑洞] 引力波,13亿光年外,62太阳质量 | 合并/合并,形成/形成,验证 | \n[罗伊·克尔]  | 证实,提出 | \n[信噪比] 高达24,很高 |  | \n[GW150914] 24 |  | \n[脉动式不稳定性超新星（pulsational pair instability supernovae）] 脉动式不稳定性超新星 | 脉动式不稳定性 | \n[升级后的LIGO探测器]  | 报告 | \n[总质量] 总质量 |  | \n[GW231123] 高自旋速度 |  | \n[3.6倍太阳质量的物体]  | 被估计 | \n[质量间隙] 不稳定超新星,大不确定性 |  | \n[爱因斯坦广义相对论]  | 接近 | \n[中子星]  | 分类/确认为 | ",
+    "compact_len": 332,
+    "original_len": 2967,
+    "compact_ratio": 8.9,
+    "elapsed": 37.7,
+    "entity_count": 12,
+    "ents_with_attrs": 7,
+    "ents_with_rels": 7,
+    "ents_with_concept": 0,
+    "empty_attrs": 5,
+    "vram_peak_mb": 4105,
+    "vram_avg_mb": 4105,
+    "phase_times": {
+      "schema": 2.62,
+      "skeleton": 21.51,
+      "fuse": 2.99,
+      "detail": 10.53,
+      "serialize": 0.0
+    },
+    "extractor_model": "qwen2.5:3b",
+    "schema_model": "qwen2.5:3b"
+  }
+}
